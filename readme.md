@@ -75,7 +75,7 @@ user1<br />
 user3<br />
 6.25<br />
 user3(dues 100)<br />
-300<br /><br />
+300<br />
 400<br />
 
 
